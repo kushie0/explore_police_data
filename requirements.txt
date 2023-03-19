@@ -1,1 +1,4 @@
 openpolicedata==0.5.1
+matplotlib==3.7.1
+census==0.8.19
+us==2.0.2
